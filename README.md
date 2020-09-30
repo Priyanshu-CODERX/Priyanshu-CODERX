@@ -6,11 +6,11 @@
 #### ⚡ Fun Fact ~ I am a Dark Theme Lover
 #### 👨🏻‍💻 Currently Working On: Low Poly Racing Game
 
-### Connect with me on -  
+### Connect With Me -  
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/priyanshu-bhattacharjee-438ab01b5/) 
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/priyanshu_coderx/)
 [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/priyanshu.bhattacharjee.58)
-
+[<img src = "https://img.shields.io/badge/youtube-%23E4405F.svg?&style=for-the-badge&logo=youtube&logoColor=white">](https://www.youtube.com/channel/UCeAsxa9YGGHK2lmTu6Q-DWA)
 ### Learning
 ![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=Flutter)
 ![AR](https://img.shields.io/badge/-Augmented%20Reality-blue?style=flat-square&logo=Unity)
