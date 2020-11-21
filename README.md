@@ -15,10 +15,13 @@
 ### Learning
 ![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=Flutter)
 ![AR](https://img.shields.io/badge/-Augmented%20Reality-blue?style=flat-square&logo=Unity)
-### Front-End Stack
+### Web Development Stack
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![MongoDB](https://img.shields.io/badge/-MongoDB-E34F26?style=flat-square&logo=MongoDB&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-448AFF?style=flat-square&logo=JavaScript&logoColor=white)
+![ReactJs](https://img.shields.io/badge/-React-212121?style=flat-square&logo=React&logoColor=white)
 
 ### Languages
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
