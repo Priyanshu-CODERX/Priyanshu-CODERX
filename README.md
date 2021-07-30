@@ -3,7 +3,7 @@
 #### I am a Passionate Coder 👨🏻‍💻 and a student 🤟 and I have worked on my personal projects<br> and also made one game named JackTheAdventurer🚀.
 
 #### ⚡ Fun Fact ~ I am a Dark Theme Lover
-#### 👨🏻‍💻 Currently Working On: Low Poly Racing Game
+<!-- #### 👨🏻‍💻 Currently Working On:  -->
 
 ### Connect With Me -  
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/priyanshu-bhattacharjee-438ab01b5/) 
