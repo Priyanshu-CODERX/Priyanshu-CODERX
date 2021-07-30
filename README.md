@@ -2,8 +2,8 @@
 ## Hey There 👋 I am [Priyanshu Bhattacharjee](https://priyanshudev.netlify.app/) 😃 aka Priyanshu-CODERX
 #### I am a Passionate Coder 👨🏻‍💻 and a student 🤟 and I have worked on my personal projects<br> and also made one game named JackTheAdventurer🚀.
 
-#### ⚡ Fun Fact ~ I am a Dark Theme Lover
-<!-- #### 👨🏻‍💻 Currently Working On:  -->
+#### ⚡ Fun Fact ~ I like Dark Theme
+#### 👨🏻‍💻 Currently Learning: React Native
 
 ### Connect With Me -  
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/priyanshu-bhattacharjee-438ab01b5/) 
@@ -13,7 +13,7 @@
 [<img src = "https://img.shields.io/badge/twitter-%23E4405F.svg?&style=for-the-badge&logo=twitter&logoColor=white%22">](https://twitter.com/PriyanshuCODERX)
 
 ### Learning
-![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=Flutter)
+![React Native](https://img.shields.io/badge/-ReactNative-black?style=flat-square&logo=React)
 ![AR](https://img.shields.io/badge/-Augmented%20Reality-blue?style=flat-square&logo=Unity)
 ### Web Development Stack
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
