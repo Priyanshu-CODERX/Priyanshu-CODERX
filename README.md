@@ -1,40 +1,75 @@
+## Hey 👋, I'm [Priyanshu Bhattacharjee!](https://priyanshudev.netlify.app/)
 
-## Hey There 👋 I am [Priyanshu Bhattacharjee](https://priyanshudev.netlify.app/) 😃 aka Priyanshu-CODERX
-#### I am a Passionate Coder 👨🏻‍💻 and a student 🤟 and I have worked on my personal projects<br> and also made one game named JackTheAdventurer🚀.
+<a href="https://www.linkedin.com/in/priyanshu-bhattacharjee/" target="_blank"><img height="40" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-linkedin-social-media-justicon-lineal-color-justicon.png"/></a>
+<a href="https://www.instagram.com/priyanshucoderx/" target="_blank"><img height="40" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-instagram-social-media-justicon-lineal-color-justicon.png"/></a>
+<a href="https://www.instagram.com/priyanshucoderx/" target="_blank"><img height="40" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-youtube-social-media-justicon-lineal-color-justicon.png"/></a>
+<a href="mailto:priyanshubh999@gmail.com" target="_blank"><img height="40" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-gmail-social-media-justicon-lineal-color-justicon.png"/></a>
+<a href="https://discord.gg/5bvZAZd83D" target="_blank"><img height="40" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-discord-social-media-justicon-lineal-color-justicon.png"/></a>
 
-#### ⚡ Fun Fact ~ I like Dark Theme
-#### 👨🏻‍💻 Currently Learning: React Native
+### Glad to see you here! &nbsp;
 
-### Connect With Me -  
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/priyanshu-bhattacharjee-438ab01b5/) 
-[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/priyanshu_coderx/)
-[<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/priyanshu.bhattacharjee.58)
-[<img src = "https://img.shields.io/badge/youtube-%23E4405F.svg?&style=for-the-badge&logo=youtube&logoColor=white">](https://www.youtube.com/channel/UCeAsxa9YGGHK2lmTu6Q-DWA)
-[<img src = "https://img.shields.io/badge/twitter-%23E4405F.svg?&style=for-the-badge&logo=twitter&logoColor=white%22">](https://twitter.com/PriyanshuCODERX)
+I am a 17 year old software developer and a high school student from India 🤓. I have experience in developing websites, mobile applications, 3D and 2D Games, Augmented Reality & Virtual Reality applications 🚀. I have been coding since I was 10 year old and have worked with multiple languages over the years 👨‍💻 and have taught over 100+ students at colleges and universities 💻. I am also into Quantum Computing.
 
-### Learning
-![React Native](https://img.shields.io/badge/-ReactNative-black?style=flat-square&logo=React)
-![AR](https://img.shields.io/badge/-Augmented%20Reality-blue?style=flat-square&logo=Unity)
-### Web Development Stack
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![MongoDB](https://img.shields.io/badge/-MongoDB-E34F26?style=flat-square&logo=MongoDB&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-448AFF?style=flat-square&logo=JavaScript&logoColor=white)
-![ReactJs](https://img.shields.io/badge/-React-212121?style=flat-square&logo=React&logoColor=white)
+<!-- <img align="right" height="250" width="375" alt="" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" /> -->
+<img style="border-radius: 10px !important;" align="right" height="250" alt="" src="https://camo.githubusercontent.com/6980a08cbf1de9fd8a7ef3c1c7f8b9c3cf6ceac8ff87fd2b6aaf114b7050c133/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f353430333931382f666f6375732d616e696d6174696f6e2e676966"/>
 
-### Languages
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Java](https://img.shields.io/badge/-Java-46854e?style=flat-square&logo=Java)
-![C++](https://img.shields.io/badge/-C++-1884ba?style=flat-square&logo=C)
-![C#](https://img.shields.io/badge/-CSharp-69bd15?style=flat-square&logo=C)
-![Dart](https://img.shields.io/badge/-Dart-blue?style=flat-square&logo=dart)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+### Talking about Personal Stuffs:
 
-### My GitHub Stats
-<p>
-    <img src="https://github-readme-stats.vercel.app/api?username=Priyanshu-CODERX&show_icons=true&theme=dark&line_height=40">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu-CODERX&theme=dark">
-</p>
+- 🛠 &nbsp; I’m currently working on XR projects to solve some curcial problems faced by people in the medical and education sector.
+- 🚀 &nbsp; I’m currently learning DSA & Quantum Computing.
+- 💬 &nbsp; Ask me about anything [here](https://www.linkedin.com/in/priyanshu-bhattacharjee/)! I am happy to help.
+- 👾 &nbsp; Fun Fact: Dark themes doesn't attracts bugs 😆.
+- 📫 &nbsp; How to reach me: priyanshubh999@gmail.com.
 
+### Languages and Tools:
+
+<div class="skills">
+    <img height="35" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"/>
+    <img height="35" src="https://img.icons8.com/color/48/000000/python--v2.png" alt="Python"/>
+    <img height="35" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png" alt="Java"/>
+    <img height="35" src="https://img.icons8.com/color/48/000000/react-native.png"/>
+    <img height="35" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
+    <img height="35" src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"/>
+    <img height="35" src="https://img.icons8.com/color/48/000000/android-studio--v2.png" alt="Android Studio"/>
+    <img height="35" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="c sharp" />
+    <img height="35" src="https://img.icons8.com/fluency/48/000000/unity.png"/>
+    <img height="35" src="https://img.icons8.com/color/48/000000/firebase.png"/>
+    <img height="35" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
+    <img height="35" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
+    <img height="35" src="https://img.icons8.com/color/48/000000/css3.png"/>
+</div>
+
+<!--
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="sass"></code>
+-->
+
+### Github Stats & Dev Stuffs
+
+<details>	
+  <summary><b>⚡ Github Stats</b></summary>
+
+  <br />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=priyanshu-coderx&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu-coderx&show_icons=true&hide_border=true&layout=compact&langs_count=12"/>
+</details>
+
+<details>	
+  <summary><b>☄️ Github Streaks</b></summary>
+
+  <br />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshu-coderx&hide_border=false" />
+</details>
+ 
+<details>	
+  <br />
+  <summary><b>⚙️ Things I use to get stuff done</b></summary>
+  	<ul>
+  	    <li><b>OS:</b> Windows 10</li>
+	    <li><b>Laptop: </b> Lenovo Ideapad 130 (AMD A6)</li>
+  	    <li><b>Browser: </b> Brave Web Browser</li>
+	    <li><b>Terminal: </b> Ubuntu WSL Terminal</li>
+	    <li><b>Code Editor's:</b> VSCode, Sublime Text, Notepad++</li>
+        <li><b>IDE's:</b> Android Studio, Eclipse</li>
+	    <br />
+	</ul>	
+</details>
