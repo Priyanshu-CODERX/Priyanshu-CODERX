@@ -1,5 +1,7 @@
 ## Hey 👋, I'm [Priyanshu Bhattacharjee!](https://priyanshudev.netlify.app/)
 
+### Social Media Handles
+
 <a href="https://www.linkedin.com/in/priyanshu-bhattacharjee/" target="_blank"><img height="40" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-linkedin-social-media-justicon-lineal-color-justicon.png"/></a>
 <a href="https://www.instagram.com/priyanshucoderx/" target="_blank"><img height="40" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-instagram-social-media-justicon-lineal-color-justicon.png"/></a>
 <a href="https://www.instagram.com/priyanshucoderx/" target="_blank"><img height="40" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-youtube-social-media-justicon-lineal-color-justicon.png"/></a>
