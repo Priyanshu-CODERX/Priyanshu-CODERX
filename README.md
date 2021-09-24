@@ -17,7 +17,7 @@ I am a 17 year old software developer and a high school student from India 🤓.
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working on XR projects to solve some curcial problems faced by people in the medical and education sector.
+- 🛠 &nbsp; I’m currently working on XR projects to solve some crucial problems faced by people in the medical and education sector.
 - 🚀 &nbsp; I’m currently learning DSA & Quantum Computing.
 - 💬 &nbsp; Ask me about anything [here](https://www.linkedin.com/in/priyanshu-bhattacharjee/)! I am happy to help.
 - 👾 &nbsp; Fun Fact: Dark themes doesn't attracts bugs 😆.
