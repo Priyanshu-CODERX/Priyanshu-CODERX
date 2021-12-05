@@ -4,7 +4,7 @@
 
 <a href="https://www.linkedin.com/in/priyanshu-bhattacharjee/" target="_blank"><img height="40" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-linkedin-social-media-justicon-lineal-color-justicon.png"/></a>
 <a href="https://www.instagram.com/priyanshucoderx/" target="_blank"><img height="40" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-instagram-social-media-justicon-lineal-color-justicon.png"/></a>
-<a href="https://www.instagram.com/priyanshucoderx/" target="_blank"><img height="40" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-youtube-social-media-justicon-lineal-color-justicon.png"/></a>
+<a href="https://www.youtube.com/c/coderslane" target="_blank"><img height="40" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-youtube-social-media-justicon-lineal-color-justicon.png"/></a>
 <a href="mailto:priyanshubh999@gmail.com" target="_blank"><img height="40" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-gmail-social-media-justicon-lineal-color-justicon.png"/></a>
 <a href="https://discord.gg/5bvZAZd83D" target="_blank"><img height="40" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-discord-social-media-justicon-lineal-color-justicon.png"/></a>
 
