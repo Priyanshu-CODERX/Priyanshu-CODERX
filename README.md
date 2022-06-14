@@ -72,7 +72,7 @@ I am a 17 year old software developer and a high school student from India 🤓.
   	    <li><b>Browser: </b> Brave Web Browser</li>
 	    <li><b>Terminal: </b> Ubuntu WSL Terminal</li>
 	    <li><b>Code Editor's:</b> VSCode, Sublime Text, Notepad++</li>
-        <li><b>IDE's:</b> Android Studio, Eclipse</li>
+        <li><b>IDE's:</b> Android Studio, Eclipse, Visual Studio</li>
 	    <br />
 	</ul>	
 </details>
