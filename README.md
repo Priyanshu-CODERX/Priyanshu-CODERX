@@ -67,12 +67,13 @@ I am a 17 year old software developer and a high school student from India 🤓.
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
-  	    <li><b>OS:</b> Windows 10</li>
-	    <li><b>Laptop: </b> Lenovo Ideapad 130 (AMD A6)</li>
+  	    <li><b>OS:</b> Windows 11</li>
+	    <li><b>CPU: </b> Intel Core i5 12400</li>
+	    <li><b>RAM: </b> 16GB</li>
   	    <li><b>Browser: </b> Brave Web Browser</li>
-	    <li><b>Terminal: </b> Ubuntu WSL Terminal</li>
-	    <li><b>Code Editor's:</b> VSCode, Sublime Text, Notepad++</li>
-        <li><b>IDE's:</b> Android Studio, Eclipse, Visual Studio</li>
+	    <li><b>Terminal: </b> Windows Terminal</li>
+	    <li><b>Code Editor's:</b> VSCode, Sublime Text</li>
+            <li><b>IDE's:</b> Android Studio, Visual Studio</li>
 	    <br />
 	</ul>	
 </details>
