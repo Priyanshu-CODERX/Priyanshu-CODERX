@@ -10,7 +10,7 @@
 
 ### Glad to see you here! &nbsp;
 
-I am a 17 year old software developer and a high school student from India 🤓. I have experience in developing websites, mobile applications, 3D and 2D Games, Augmented Reality & Virtual Reality applications 🚀. I have been coding since I was 10 year old and have worked with multiple languages over the years 👨‍💻 and have taught over 100+ students at colleges and universities 💻. I am also into Quantum Computing.
+Priyanshu Bhattacharjee is one of the Youngest Extended Reality Engineer from India 🙂, he has worked with multiple companies and startups as an XR Developer and has taught over 200+ students at different universities, he's the Co-Founder of Antern which is an EdTech and Product Based Platform which leverages Artificial Intelligence and Augmented Reality to make learning more fun 🚀.
 
 <!-- <img align="right" height="250" width="375" alt="" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" /> -->
 <img style="border-radius: 10px !important;" align="right" height="250" alt="" src="https://camo.githubusercontent.com/6980a08cbf1de9fd8a7ef3c1c7f8b9c3cf6ceac8ff87fd2b6aaf114b7050c133/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f353430333931382f666f6375732d616e696d6174696f6e2e676966"/>
@@ -18,7 +18,7 @@ I am a 17 year old software developer and a high school student from India 🤓.
 ### Talking about Personal Stuffs:
 
 - 🛠 &nbsp; I’m currently working on XR projects to solve some crucial problems faced by people in the medical and education sector.
-- 🚀 &nbsp; I’m currently learning DSA & Quantum Computing.
+- 🚀 &nbsp; I am currently Building an EdTech Platform 🚀.
 - 💬 &nbsp; Ask me about anything [here](https://www.linkedin.com/in/priyanshu-bhattacharjee/)! I am happy to help.
 - 👾 &nbsp; Fun Fact: Dark themes doesn't attracts bugs 😆.
 - 📫 &nbsp; How to reach me: priyanshubh999@gmail.com.
@@ -68,10 +68,10 @@ I am a 17 year old software developer and a high school student from India 🤓.
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
   	    <li><b>OS:</b> Windows 11</li>
-	    <li><b>CPU: </b> Intel Core i5 12400</li>
+	    <li><b>CPU: </b> Intel Core i5-12400</li>
 	    <li><b>RAM: </b> 16GB</li>
-  	    <li><b>Browser: </b> Brave Web Browser</li>
-	    <li><b>Terminal: </b> Windows Terminal</li>
+  	    <li><b>Browser: </b> Chrome, Brave</li>
+	    <li><b>Terminal: </b> Windows Terminal, Git Terminal</li>
 	    <li><b>Code Editor's:</b> VSCode, Sublime Text</li>
             <li><b>IDE's:</b> Android Studio, Visual Studio</li>
 	    <br />
