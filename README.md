@@ -10,7 +10,10 @@
 
 ### Glad to see you here! &nbsp;
 
-Priyanshu Bhattacharjee is one of the Youngest Extended Reality Engineer from India 🙂, he has worked with multiple companies and startups as an XR Developer and has taught over 200+ students at different universities, he's the Co-Founder of Antern which is an EdTech and Product Based Platform which leverages Artificial Intelligence and Augmented Reality to make learning more fun 🚀.
+Priyanshu Bhattacharjee is one of the Youngest Extended Reality Engineer from India, he has worked with multiple companies and startups as an XR Developer and has taught over 200+ students at different universities, he's the Co-Founder of Antern which is an EdTech and Product Based Platform which leverages Artificial Intelligence and Augmented Reality to make learning more fun.
+He has worked with multiple startups building their XR Ecosystems and have taught over 200+ students and professors at different universities such as NIT Durgapur, SVIT, IFET Engineering College.
+He has taken an initiative to upskill the XR Community by sharing his knowledge through his YouTube Channel Coded Reality by curating extensive and comprehensive courses, he has worked on Augmented Reality For Everyone which is a free course teaching Augmented Reality from scratch and has got over 240K+ Views over YouTube.
+He is currently working on building Antern which is an EdTech and Product based platform which uses intelligent and immersive technologies such as Artificial Intelligence and Augmented Reality to make courses more immersive and enjoyable.
 
 <!-- <img align="right" height="250" width="375" alt="" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" /> -->
 <img style="border-radius: 10px !important;" align="right" height="250" alt="" src="https://camo.githubusercontent.com/6980a08cbf1de9fd8a7ef3c1c7f8b9c3cf6ceac8ff87fd2b6aaf114b7050c133/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f353430333931382f666f6375732d616e696d6174696f6e2e676966"/>
@@ -31,10 +34,10 @@ Priyanshu Bhattacharjee is one of the Youngest Extended Reality Engineer from In
     <img height="35" src="https://img.icons8.com/color/48/000000/android-studio--v2.png" alt="Android Studio"/>
     <img height="35" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="c sharp" />
     <img height="35" src="https://img.icons8.com/fluency/48/000000/unity.png"/>
+	<img height="35" src="https://i.ibb.co/xXYf4s3/ARCore-logo-removebg-preview-1.png" alt="ARCore"/>
+	<img height="35" src="https://i.ibb.co/1JnBWFd/image-removebg-preview-1.png" alt="Lightship ARDK"/>
     <img height="35" src="https://img.icons8.com/color/48/000000/firebase.png"/>
     <img height="35" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-    <img height="35" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
-    <img height="35" src="https://img.icons8.com/color/48/000000/css3.png"/>
     <img height="35" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
 </div>
 
