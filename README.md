@@ -26,12 +26,8 @@ Priyanshu Bhattacharjee is one of the Youngest Extended Reality Engineer from In
 ### Languages and Tools:
 
 <div class="skills">
-    <img height="35" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"/>
     <img height="35" src="https://img.icons8.com/color/48/000000/python--v2.png" alt="Python"/>
     <img height="35" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png" alt="Java"/>
-    <img height="35" src="https://img.icons8.com/color/48/000000/react-native.png"/>
-    <img height="35" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
-    <img height="35" src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"/>
     <img height="35" src="https://img.icons8.com/color/48/000000/android-studio--v2.png" alt="Android Studio"/>
     <img height="35" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="c sharp" />
     <img height="35" src="https://img.icons8.com/fluency/48/000000/unity.png"/>
