@@ -1,4 +1,4 @@
-## Hey 👋, I'm [Priyanshu Bhattacharjee!](https://priyanshudev.netlify.app/)
+## Hey 👋, I'm [Priyanshu Bhattacharjee!](https://priyanshuxr.super.site/)
 
 ### Social Media Handles
 
