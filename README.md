@@ -26,16 +26,19 @@ He is currently working on building Antern which is an EdTech and Product based 
 - 👾 &nbsp; Fun Fact: Dark themes doesn't attracts bugs 😆.
 - 📫 &nbsp; How to reach me: priyanshubh999@gmail.com.
 
-### Languages and Tools:
+### Languages and Tools I Work With:
 
 <div class="skills">
     <img height="35" src="https://img.icons8.com/color/48/000000/python--v2.png" alt="Python"/>
-    <img height="35" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png" alt="Java"/>
+	    <img height="35" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="c sharp" />
     <img height="35" src="https://img.icons8.com/color/48/000000/android-studio--v2.png" alt="Android Studio"/>
-    <img height="35" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="c sharp" />
     <img height="35" src="https://img.icons8.com/fluency/48/000000/unity.png"/>
 	<img height="35" src="https://i.ibb.co/xXYf4s3/ARCore-logo-removebg-preview-1.png" alt="ARCore"/>
+	<img height="35" src="https://i.ibb.co/02JJyNz/best-apple-ARKit-removebg-preview-1.png" alt="ARKit"/>
+	<img height="35" src="https://i.ibb.co/zSX04gz/ptc-favicon-144x144-gray.png" alt="Vuforia Engine"/>
+	<img height="35" src="https://user-images.githubusercontent.com/59302986/233921731-df4f3431-7ca0-48a4-b89a-1416d9ee8f98.png" alt="Microsoft Mixed Reality Toolkit"/>
 	<img height="35" src="https://i.ibb.co/1JnBWFd/image-removebg-preview-1.png" alt="Lightship ARDK"/>
+	<img height="35" src="https://i.ibb.co/VCFm484/image-3-removebg-preview.png" alt="Oculus Quest"/>
     <img height="35" src="https://img.icons8.com/color/48/000000/firebase.png"/>
     <img height="35" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
     <img height="35" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
