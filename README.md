@@ -65,7 +65,7 @@ He is currently working on building Antern which is an EdTech and Product based 
  
 <details>	
   <br />
-  <summary><b>⚙️ Things I use to get stuff done</b></summary>
+  <summary><b>⚙️ Things I Use To Get Stuffs Done</b></summary>
   	<ul>
   	    <li><b>OS:</b> Windows 11</li>
 	    <li><b>CPU: </b> Intel Core i5-12400</li>
