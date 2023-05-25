@@ -16,7 +16,7 @@ He has taken an initiative to upskill the XR Community by sharing his knowledge 
 He is currently working on building Antern which is an EdTech and Product based platform which uses intelligent and immersive technologies such as Artificial Intelligence and Augmented Reality to make courses more immersive and enjoyable.
 
 <!-- <img align="right" height="250" width="375" alt="" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" /> -->
-<img style="border-radius: 10px !important;" align="right" height="250" alt="" src="https://camo.githubusercontent.com/6980a08cbf1de9fd8a7ef3c1c7f8b9c3cf6ceac8ff87fd2b6aaf114b7050c133/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f353430333931382f666f6375732d616e696d6174696f6e2e676966"/>
+<img align="right" height="250" alt="" src="https://camo.githubusercontent.com/6980a08cbf1de9fd8a7ef3c1c7f8b9c3cf6ceac8ff87fd2b6aaf114b7050c133/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f353430333931382f666f6375732d616e696d6174696f6e2e676966"/>
 
 ### Talking about Personal Stuffs:
 
