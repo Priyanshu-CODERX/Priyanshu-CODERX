@@ -23,7 +23,7 @@ He is currently working on building Antern which is an EdTech and Product based 
 - 🛠 &nbsp; I’m currently working on XR projects to solve some crucial problems faced by people in the medical and education sector.
 - 🚀 &nbsp; I am currently Building an EdTech Platform 🚀.
 - 💬 &nbsp; Ask me about anything [here](https://www.linkedin.com/in/priyanshu-bhattacharjee/)! I am happy to help.
-- 👾 &nbsp; Fun Fact: In Virtual Reality, you can finally play virtual tennis against a T-Rex 😆.
+- 👾 &nbsp; Fun Fact: In VR, you can play virtual tennis against a T-Rex 😆.
 - 📫 &nbsp; How to reach me: priyanshubh999@gmail.com.
 
 ### Languages and Tools I Work With:
