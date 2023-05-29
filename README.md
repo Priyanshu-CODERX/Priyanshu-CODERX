@@ -65,7 +65,7 @@ Priyanshu Bhattacharjee is one of the Youngest Extended Reality Engineer from In
   <br />
   <summary><b>⚙️ Things I Use To Get Stuffs Done</b></summary>
   	<ul>
-  	    <li><b>OS:</b> Windows 11</li>
+  	    <li><b>OS:</b> Windows 11, Linux Mint</li>
 	    <li><b>CPU: </b> Intel Core i5-12400</li>
 	    <li><b>RAM: </b> 16GB</li>
   	    <li><b>Browser: </b> Chrome, Brave</li>
