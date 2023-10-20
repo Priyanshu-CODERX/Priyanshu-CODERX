@@ -64,9 +64,10 @@
   <br />
   <summary><b>⚙️ Things I Use To Get Stuffs Done</b></summary>
   	<ul>
-  	    <li><b>OS:</b> Windows 11, Linux Mint</li>
+  	    <li><b>OS:</b> Windows 11, Linux Mint, Mac Os</li>
 	    <li><b>CPU: </b> Intel Core i5-12400</li>
 	    <li><b>RAM: </b> 16GB</li>
+	    <li><b>Laptop: </b> Macbook Pro</li>
   	    <li><b>Browser: </b> Chrome, Brave</li>
 	    <li><b>Terminal: </b> Windows Terminal, Git Terminal</li>
 	    <li><b>Code Editor's:</b> VSCode, Sublime Text</li>
